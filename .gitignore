@@ -10,3 +10,4 @@
 *.lai
 *.la
 *.a
+tools/h8write/h8write
