@@ -11,3 +11,4 @@
 *.la
 *.a
 tools/h8write/h8write
+tools/kz_xmodem/kz_xmodem
